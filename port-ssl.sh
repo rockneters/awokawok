@@ -51,7 +51,7 @@ fi
 ;;
 x)
 exit
-menu
+menu1
 ;;
 *)
 echo "Please enter an correct number"
